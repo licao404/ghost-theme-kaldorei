@@ -1922,8 +1922,9 @@ body.nav-opened .site-wrapper {
 .widget-profile-cover.overlay,
 .widget-profile-cover.no-cover {
     background: #34495e;
+    background-size: cover;
     background-position: center center;
-    height: 100px;
+    height: 150px;
 }
 
 .widget-profile-desc {
