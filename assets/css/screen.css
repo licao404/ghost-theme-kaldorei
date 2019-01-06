@@ -3096,10 +3096,10 @@ code.hljs {
 
 .kg-gallery-container {
     display: flex;
-    margin: auto;
+    margin: 1rem auto;
     flex-direction: column;
     max-width: 768px;
-    width: 100vw;
+    /* width: 100vw; */
 }
 
 .kg-gallery-row {
