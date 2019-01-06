@@ -3096,6 +3096,7 @@ code.hljs {
 
 .kg-gallery-container {
     display: flex;
+    margin: auto;
     flex-direction: column;
     max-width: 768px;
     width: 100vw;
