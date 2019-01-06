@@ -858,6 +858,15 @@ body.nav-opened .site-wrapper {
     line-height: 1.7em;
 }
 
+.post-excerpt img {
+    margin-bottom: 1.5rem;
+    font-size: 0;
+    display: block;
+    height: auto;
+    border: 0;
+    width: 100%;
+}
+
 .read-more {
     text-decoration: none;
 }
@@ -1732,7 +1741,7 @@ body.nav-opened .site-wrapper {
 /* Tag cloud style */
 
 .tag-cloud-content {
-    padding: 12px;
+    padding: 20px 12px;
     font-size: 14px;
 }
 
@@ -2565,6 +2574,10 @@ body.nav-opened .site-wrapper {
 
     .post-excerpt p {
         font-size: 0.85em;
+    }
+
+    .post-excerpt img {
+        margin-bottom: 1rem;
     }
 
     .page-description {
